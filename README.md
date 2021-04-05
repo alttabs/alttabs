@@ -7,7 +7,7 @@
 - 🛠 Mostly code in JavaScript(NodeJS), C#(.NET) and Ruby.
 - 🌱 Learning more about Scrum, Clean Development and BDD.
 - :octocat: I use this GitHub profile in my free time projects to practice some code and learn new things, I'm a knowledge seeker who has an interest in a lot of different stuff. Now working with JavaScript and advance my skills with it.  
-- 👾 Love play videogames online, console, board games. Also passionate about music play electric and acoustic guitar.
+- 👾 Love play online, console, board games. Also passionate about music, play electric and acoustic guitar.
 
 <a href="https://github.com/alttabs">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alttabs&show_icons=true&custom_title=GitHub+Stats&theme=vue">
