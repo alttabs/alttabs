@@ -51,5 +51,6 @@
 <a href="https://www.https://thabstacks.netlify.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.thabstacks.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/thabataalmeida/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thabata%20Almeida-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/altthabs/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-altthabs-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.twitter.com/altthabs/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-altthabs-blue?style=flat-square&logo=twitter"></a>
 <a href="ccthabata@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ccthabata@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
