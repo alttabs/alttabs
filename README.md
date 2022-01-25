@@ -2,10 +2,10 @@
 
 - ✨ Quality Engineer and Web developer.
 - 🌍 Based in Salvador, Brazil.
-- 🎓 Master student in Software Engineering.
+- 🎓 Bachelor of Computer Science
 - 💼 Working as a Quality Engineer at Zup Innovation.
-- 🛠 Mostly code in JavaScript(NodeJS), C#(.NET) and Ruby.
-- 🌱 Learning more about Scrum, Clean Development and BDD.
+- 🛠 Mostly code in JavaScript(NodeJS).
+- 🌱 Learning more about Web Development.
 - :octocat: I use this GitHub profile in my free time projects to practice some code and learn new things, I'm a knowledge seeker who has an interest in a lot of different stuff. Now working with JavaScript and advance my skills with it.  
 - 👾 Love play online, console, board games. Also passionate about music, play electric and acoustic guitar.
 
