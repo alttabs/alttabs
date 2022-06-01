@@ -29,10 +29,10 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
+<!-- - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual_studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+  [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub) -->
 - 🖥 &nbsp;
   ![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber)
   ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
