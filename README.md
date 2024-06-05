@@ -5,7 +5,7 @@
 - 🛠 Mostly code in JavaScript(NodeJS).
 - 🌱 Learning more about Web3.
 - :octocat: I use this GitHub profile in my free time projects to practice some code and learn new things, I'm a knowledge seeker who has an interest in a lot of different stuff. Now working with JavaScript and advance my skills with it.  
-- 👾 Love play online, console, board games. Also passionate about music, play electric and acoustic guitar.
+- 👾 Passionate about Music, Crossfit and Gym.
 
 <a href="https://github.com/alttabs">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alttabs&show_icons=true&custom_title=GitHub+Stats&theme=vue">
