@@ -2,31 +2,23 @@
 
 - 🎓 Mba in Software Engineering and Bachelor of Computer Science
 - 💼 Working as a Software Engineer at Dell.
-- 🛠 Mostly code in JavaScript(NodeJS).
+- 🛠 Mostly code in JavaScript(NodeJS) and C#(Net).
 - 🌱 Learning more about Web3.
-- :octocat: I use this GitHub profile in my free time projects to practice some code and learn new things, I'm a knowledge seeker who has an interest in a lot of different stuff. Now working with JavaScript and advance my skills with it.  
 - 👾 Passionate about Music, Crossfit and Gym.
 
-<a href="https://github.com/alttabs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alttabs&show_icons=true&custom_title=GitHub+Stats&theme=vue">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alttabs&layout=compact&theme=vue">
-</a>
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React.js](https://shields.io/badge/React-333333?logo=react&style=flat)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vuedotjs&logoColor=4FC08D)
+ ![.Net](https://img.shields.io/badge/-.NET%206.0-blueviolet)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Postgree](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=postgresql)
+  ![Postgree](https://img.shields.io/badge/-Postgree-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
 <!-- - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual_studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
