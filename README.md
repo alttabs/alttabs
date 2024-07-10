@@ -5,12 +5,11 @@
 - 🛠 Mostly code in JavaScript(NodeJS) and C#(Net).
 - 🌱 Learning more about Web3(Rust).
 - 👾 Passionate about Music, Crossfit and Gym.
-
 - 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React.js](https://shields.io/badge/React-333333?logo=react&style=flat)
   ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vuedotjs&logoColor=4FC08D)
- ![.Net](https://img.shields.io/badge/-.NET%206.0-blueviolet)
+  ![.Net](https://img.shields.io/badge/-.NET%206.0-blueviolet)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
