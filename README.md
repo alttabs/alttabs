@@ -3,7 +3,7 @@
 - 🎓 Mba in Software Engineering and Bachelor of Computer Science
 - 💼 Working as a Software Engineer at Dell.
 - 🛠 Mostly code in JavaScript(NodeJS) and C#(Net).
-- 🌱 Learning more about Web3.
+- 🌱 Learning more about Web3(Rust).
 - 👾 Passionate about Music, Crossfit and Gym.
 
 - 🌐 &nbsp;
@@ -28,13 +28,11 @@
   ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
   ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=Cypress)
   ![InDesign](https://img.shields.io/badge/-API-333333?style=flat&logo=postman)
-
 <br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://thabstacks.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.thabstacks.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/tha-santos-201b8a311"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thabata%20Almeida-blue?style=flat-square&logo=linkedin"></a>
+<!-- <a href="https://thabstacks.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.thabstacks.app-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/thabataalmeida/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thabata%20Almeida-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/altthabs/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-altthabs-blue?style=flat-square&logo=instagram"></a>
-<a href="ccthabata@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ccthabata@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="engthabata@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-engthabata@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
