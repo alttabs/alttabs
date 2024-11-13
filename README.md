@@ -3,7 +3,6 @@
 - 🎓 Mba in Software Engineering and Bachelor of Computer Science
 - 💼 Working as a Software Engineer at Dell.
 - 🛠 Mostly code in JavaScript(NodeJS) and C#(Net).
-- 🌱 Learning more about Web3(Rust).
 - 👾 Passionate about Music, Crossfit and Gym.
 - 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
